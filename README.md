@@ -2,6 +2,7 @@
 The Walmart dataset contains weekly sales data for 45 Walmart stores, along with other potentially relevant factors such as temperature, fuel price, CPI (Consumer Price Index), and unemployment rate. It also includes a 'Holiday_Flag' indicating whether a given week was a holiday week. The dataset is used to analyze sales trends and the impact of various factors on weekly sales performance.
 
 
+
 1. Reading the Dataset
 
 We begin by importing the necessary libraries and loading the Walmart dataset using pd.read_csv():
